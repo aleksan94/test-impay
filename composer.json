@@ -1,0 +1,14 @@
+{
+    "name": "aleks/test-impay",
+    "autoload": {
+        "psr-4": {
+            "Aleks\\TestImpay\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aleksan94",
+            "email": "aleksan94@yandex.ru"
+        }
+    ]
+}
